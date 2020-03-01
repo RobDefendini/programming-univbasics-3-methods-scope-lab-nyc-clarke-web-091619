@@ -20,6 +20,4 @@ def all_phrases
  quote = "It's Dangerous To Go Alone! Take This."
   puts phrase , status , quote
   
-
-  
 end
